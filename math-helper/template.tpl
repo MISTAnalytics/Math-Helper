@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Math Helper",
+  "categories": ["ANALYTICS", "ADVERTISING", "TAG_MANAGEMENT"],
   "description": "Use this variable to do math calculations on any input value.",
   "containerContexts": [
     "SERVER"
