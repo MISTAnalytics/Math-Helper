@@ -1,3 +1,5 @@
+# Math Helper - Server Side GTM Variable
+
 Use this Google Tag Manager Server variable to use the Math functionality in a more convenient way.
 
 Math options are:
