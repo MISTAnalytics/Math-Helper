@@ -11,3 +11,5 @@ Math options are:
 6) Return the smallest argument.
 7) Return the first argument raised to the power of the second argument.
 8) Return the square root of the argument.
+
+Offered to you by https://mistanalytics.nl/
