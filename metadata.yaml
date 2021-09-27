@@ -6,5 +6,5 @@
 
 homepage: "https://mistanalytics.nl/"
 versions:
-  - sha: 2113f87a1d8488bfe4b16bdbe55673628bd81063
+  - sha: fa511b31aa2705881ad4f0213ed873a73a44a1e5
     changeNotes: Initial Version
